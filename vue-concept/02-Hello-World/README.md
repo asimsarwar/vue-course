@@ -10,7 +10,7 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Create Vue Project
+## Create Vue Project (Optional)
 
 ```sh
 npm create vue@latest
@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compile and Minify for Production (Optional)
 
 ```sh
 npm run build

@@ -64,3 +64,48 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Copy .env.example file and paste on the same directory. Then rename as .env
+## Open .env file and update your database credentials or use the same below
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=laravel_vue
+DB_USERNAME=root
+DB_PASSWORD=
+
+
+## Install Laravel Dependency
+```sh
+composer install
+```
+
+## Migrate Database
+```sh
+php artisan migrate
+```
+
+## Install Node Dependency
+```sh
+npm install
+```
+
+## Run Laravel Project
+```sh
+php artisan serve
+```
+## Run Vue App (Run this comman another terminal)
+```sh
+npm run dev
+```
+
+## Open Laravel Project In Browser
+http://127.0.0.1:8000
+
+## Click On Register Link And Create New User
+
+## Yahooo We Are Done Everthing. Company CRUD Is W8ing For You
+
+
+
+
