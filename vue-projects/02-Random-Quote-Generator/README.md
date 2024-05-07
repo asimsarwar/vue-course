@@ -33,7 +33,7 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production (Optional)
+## Compile and Minify for Production (Optional)
 
 ```sh
 npm run build
